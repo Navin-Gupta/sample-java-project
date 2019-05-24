@@ -16,6 +16,8 @@ import lombok.Setter;
  */
 
 /*  Some more changes */
+
+/* New changes added from developer 1 */
 @NoArgsConstructor
 @AllArgsConstructor
 public class SampleJavaProject implements Runnable {
